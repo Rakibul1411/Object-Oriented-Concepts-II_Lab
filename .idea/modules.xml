@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/File/AccountRecord/AccountRecord.iml" filepath="$PROJECT_DIR$/File/AccountRecord/AccountRecord.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Collections/CollectionTest/CollectionTest.iml" filepath="$PROJECT_DIR$/Collections/CollectionTest/CollectionTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CurrencyConversion/CurrencyConversion.iml" filepath="$PROJECT_DIR$/CurrencyConversion/CurrencyConversion.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CurrencyConverter/CurrencyConverter.iml" filepath="$PROJECT_DIR$/CurrencyConverter/CurrencyConverter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Exception Handling/Demonstrates the assert statement/Demonstrates the assert statement.iml" filepath="$PROJECT_DIR$/Exception Handling/Demonstrates the assert statement/Demonstrates the assert statement.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Exception Handling/Demonstrating chained exceptions/Demonstrating chained exceptions.iml" filepath="$PROJECT_DIR$/Exception Handling/Demonstrating chained exceptions/Demonstrating chained exceptions.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Exception Handling/Demonstrating getMessage and printStackTrace from class Exception/Demonstrating getMessage and printStackTrace from class Exception.iml" filepath="$PROJECT_DIR$/Exception Handling/Demonstrating getMessage and printStackTrace from class Exception/Demonstrating getMessage and printStackTrace from class Exception.iml" />
+      <module fileurl="file://$PROJECT_DIR$/File/Demonstrating the File class/Demonstrating the File class.iml" filepath="$PROJECT_DIR$/File/Demonstrating the File class/Demonstrating the File class.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Exception Handling/Demonstration of stack unwinding/Demonstration of stack unwinding.iml" filepath="$PROJECT_DIR$/Exception Handling/Demonstration of stack unwinding/Demonstration of stack unwinding.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Exception Handling/DivideByZeroNoExceptionHandling/DivideByZeroNoExceptionHandling.iml" filepath="$PROJECT_DIR$/Exception Handling/DivideByZeroNoExceptionHandling/DivideByZeroNoExceptionHandling.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Exception Handling/DivideByZeroWithExceptionHandling/DivideByZeroWithExceptionHandling.iml" filepath="$PROJECT_DIR$/Exception Handling/DivideByZeroWithExceptionHandling/DivideByZeroWithExceptionHandling.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Generics/Generic method maximum returns/Generic method maximum returns.iml" filepath="$PROJECT_DIR$/Generics/Generic method maximum returns/Generic method maximum returns.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Generics/Generics Class Stack/Generics Class Stack.iml" filepath="$PROJECT_DIR$/Generics/Generics Class Stack/Generics Class Stack.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Generics/GenericsMethod/GenericsMethod.iml" filepath="$PROJECT_DIR$/Generics/GenericsMethod/GenericsMethod.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Collections/HashMap/HashMap.iml" filepath="$PROJECT_DIR$/Collections/HashMap/HashMap.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Collections/HashSet/HashSet.iml" filepath="$PROJECT_DIR$/Collections/HashSet/HashSet.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Collections/LinkedlistToArrtay/LinkedlistToArrtay.iml" filepath="$PROJECT_DIR$/Collections/LinkedlistToArrtay/LinkedlistToArrtay.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Collections/ListTest/ListTest.iml" filepath="$PROJECT_DIR$/Collections/ListTest/ListTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Generics/OverloadedMethod/OverloadedMethod.iml" filepath="$PROJECT_DIR$/Generics/OverloadedMethod/OverloadedMethod.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Collections/PriorityQueue/PriorityQueue.iml" filepath="$PROJECT_DIR$/Collections/PriorityQueue/PriorityQueue.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Collections/Properties Class/Properties Class.iml" filepath="$PROJECT_DIR$/Collections/Properties Class/Properties Class.iml" />
+      <module fileurl="file://$PROJECT_DIR$/File/ReadTextFile/ReadTextFile.iml" filepath="$PROJECT_DIR$/File/ReadTextFile/ReadTextFile.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/SE-306.iml" filepath="$PROJECT_DIR$/.idea/SE-306.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Collections/Sort1/Sort1.iml" filepath="$PROJECT_DIR$/Collections/Sort1/Sort1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Collections/Sort2/Sort2.iml" filepath="$PROJECT_DIR$/Collections/Sort2/Sort2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Collections/Sort3/Sort3.iml" filepath="$PROJECT_DIR$/Collections/Sort3/Sort3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Collections/Stack/Stack.iml" filepath="$PROJECT_DIR$/Collections/Stack/Stack.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Generics/Summing the elements of an ArrayList/Summing the elements of an ArrayList.iml" filepath="$PROJECT_DIR$/Generics/Summing the elements of an ArrayList/Summing the elements of an ArrayList.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LabFinal/Task-1/Task-1.iml" filepath="$PROJECT_DIR$/LabFinal/Task-1/Task-1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LabFinal/Task-2/Task-2.iml" filepath="$PROJECT_DIR$/LabFinal/Task-2/Task-2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LabFinal/Task-3/Task-3.iml" filepath="$PROJECT_DIR$/LabFinal/Task-3/Task-3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Collections/TreeSet and SortedSet/TreeSet and SortedSet.iml" filepath="$PROJECT_DIR$/Collections/TreeSet and SortedSet/TreeSet and SortedSet.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Collections/Using algorithm binarySearch/Using algorithm binarySearch.iml" filepath="$PROJECT_DIR$/Collections/Using algorithm binarySearch/Using algorithm binarySearch.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Collections/Using algorithm shuffle/Using algorithm shuffle.iml" filepath="$PROJECT_DIR$/Collections/Using algorithm shuffle/Using algorithm shuffle.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Collections/Using algorithms addAll frequency and disjoint/Using algorithms addAll frequency and disjoint.iml" filepath="$PROJECT_DIR$/Collections/Using algorithms addAll frequency and disjoint/Using algorithms addAll frequency and disjoint.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Collections/Using algorithms reverse_fill_copy_min_max/Using algorithms reverse_fill_copy_min_max.iml" filepath="$PROJECT_DIR$/Collections/Using algorithms reverse_fill_copy_min_max/Using algorithms reverse_fill_copy_min_max.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Collections/UsingArray/UsingArray.iml" filepath="$PROJECT_DIR$/Collections/UsingArray/UsingArray.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Exception Handling/UsingExceptions/UsingExceptions.iml" filepath="$PROJECT_DIR$/Exception Handling/UsingExceptions/UsingExceptions.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Collections/Vector/Vector.iml" filepath="$PROJECT_DIR$/Collections/Vector/Vector.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Generics/Wildcard test program/Wildcard test program.iml" filepath="$PROJECT_DIR$/Generics/Wildcard test program/Wildcard test program.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LabFinal/exception/exception.iml" filepath="$PROJECT_DIR$/LabFinal/exception/exception.iml" />
+    </modules>
+  </component>
+</project>
